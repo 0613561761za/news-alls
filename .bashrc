@@ -121,18 +121,18 @@ clear
 echo "" | lolcat
 echo "" | lolcat
 echo "" | lolcat
-echo "      --[         SELAMAT DATANG  DI AnonymousVpn8            ]--"| boxes -d boy | lolcat
-echo "         ====================================================="| lolcat
-echo "         #           WhatsApp     : -                       #"| lolcat
-echo "         #           Telegram     : @AnonymousVpn8          #"| lolcat
-echo "         #           GROUP        : T.me/AnonymousVpnTeam   #"| lolcat
-echo "         #           Channel      : T.me/AnonymousVpnTeam   #"| lolcat
-echo "         #--------------------------------------------------#"| lolcat
-echo "         #      Sila taip [menu] and ENTER untuk options    #"| lolcat
-echo "         #--------------------------------------------------#"| lolcat
-echo "         ===================================================="| lolcat
-date +"                            %A, %d-%m-%Y" | lolcat
-date +"                                 %H:%M:%S %Z" | lolcat
+echo "        =============== OS-32 & 64-bit ================"| lolcat
+echo "        #                                             #"| lolcat
+echo "        #     AUTOSCRIPT CREATED BY เฮียเบิร์ด แงะตลอด   #"| lolcat
+echo "        #       -----------About Us------------       #"| lolcat
+echo "        #             Telp : 097-026-7262             #"| lolcat
+echo "        #          { VPN / SSH / OCS PANEL }          #"| lolcat
+echo "        #         http://facebook.com/Ceolnw          #"| lolcat
+echo "        #              Line id : ceolnw               #"| lolcat
+echo "        #                                             #"| lolcat
+echo "        =============== OS-32 & 64-bit ================"| lolcat
+date +"                   %A, %d-%m-%Y" | lolcat
+date +"                       %H:%M:%S %Z" | lolcat
 echo ""
 echo -e "            Server - IP: $MYIP " | lolcat
 echo ""
